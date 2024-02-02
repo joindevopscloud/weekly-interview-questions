@@ -47,3 +47,6 @@
     Ans:
     - https://www.tutorialspoint.com/what-is-zombie-process-in-linux
     - If a child process is unable to report its completion status to parent process then it will remain available in system by keeping the PID. It is called as zombie process.
+
+  - Ques: https://github.com/orgs/daws-76s/discussions/7 Convert rows in columns and columns into rows.
+  
